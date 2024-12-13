@@ -1,0 +1,19 @@
+{
+    "name": "streetec/laravel-erpnext-api-client",
+    "description": "A Laravel client for interacting with ERPNext API.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marcel Hofferbert",
+            "email": "marcel.hofferbert@streetec.net"
+        }
+    ],
+    "require": {
+        "php-curl-class/php-curl-class": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "STREETEC\\ERPNextClient\\": "src/"
+        }
+    }
+}
