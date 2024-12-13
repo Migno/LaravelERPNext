@@ -1,6 +1,7 @@
 {
     "name": "streetec/laravel-erpnext-api-client",
     "description": "A Laravel client for interacting with ERPNext API.",
+    "version": "1.0.1",
     "type": "library",
     "authors": [
         {
